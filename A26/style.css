@@ -1,0 +1,24 @@
+
+.grad{
+    height:300px;
+    width:300px;
+    /* background-image:linear-gradient(red, yellow, blue, green) ; */
+    background-image:linear-gradient(to right, red, yellow, blue, green);
+    /* background-image:linear-gradient( to left, red, yellow, blue, green) ;*/
+}
+.bg-image{
+    border: 1px solid;
+    width: 500px;
+    height: 400px;
+    margin-top: 50px;
+    background-image: url(./assets/premium_photo-1673697239909-e11521d1ba94.jpg);
+    background-size: cover;
+    background-size: auto;
+    background-size:contain ;
+    /* background-repeat:repeat-y ;
+    background-size:70% ;
+    background-position: left; */
+    background-position: center;
+    /* background-position: right;
+    background-position: 20% 40%; */
+                             }

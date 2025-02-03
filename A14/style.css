@@ -1,0 +1,19 @@
+p{
+    color: red;
+}
+/* po tregojme qe po i thirrim krejt tags p, me klasa paragraph */
+p.paragraph{color: blue;
+}
+/* po tregojme qe po i thirrim krejt paragrafat , dhe krejt klasat me emrin paragraph1  */
+p, .pragraph1{
+    color: green;
+}
+div p{
+    background-color: red;
+}
+.div2  h3{ 
+    color: blue;
+}
+.div3 > p{
+    background-color: green;
+}

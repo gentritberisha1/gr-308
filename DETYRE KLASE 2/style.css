@@ -1,0 +1,19 @@
+.box{
+    width: 200px;
+    height: 200px;
+    background-color: brown;
+    border: 7px solid yellow;
+}
+.box1{
+    margin: 50px 90%;
+}
+.box3{
+    margin: 50px 90%
+}
+h1{
+    text-align: center;
+}
+h1{
+    background-color: beige;
+    border: 7px solid yellow;
+}

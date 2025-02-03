@@ -1,0 +1,21 @@
+.transforms{
+    width: 250px;
+    height: 250px;
+    background-color: red;
+    /* transform:translate(50%,50%) ; */
+/* transform: translateX(50%);
+transform: translateX(50%); */
+/* transform: translate(50%,50%);
+transform: rotate(60deg); */
+margin-top: 300px;
+margin-left: 400px;
+transition: .3s ease-in-out;
+}
+
+.transforms:hover{
+    transform: scale(1.5,2);
+    /* vlera e pare horizontale vlera e dyte vertikale */
+    transform: skew(20deg    );
+    /* i lakon kendet per 20 shkalle */
+    transition: .3s ease-in-out;
+}

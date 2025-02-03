@@ -1,0 +1,25 @@
+*{
+margin: 0;
+padding:0;
+box-sizing:border-box;
+}
+img{
+    width: 100px;
+    height: auto;
+}
+header{
+    background-color: aqua;
+    padding: 30px 40px;
+}
+li{
+    display:inline-block ;
+}
+nav{
+    display: inline-block;
+    margin-left: 100%;
+    
+}
+section{
+    width: 100vw;
+    height: 100vh;
+}

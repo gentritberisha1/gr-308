@@ -1,0 +1,10 @@
+li{
+    list-style: lower-latin;
+}
+.doni{
+    list-style: lower-roman;
+    color: rgb(192, 98, 114);
+}   
+ul li{
+    list-style: square;
+}

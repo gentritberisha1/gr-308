@@ -1,0 +1,27 @@
+h1{
+    color: red;
+    text-indent: 99px;
+    /* tu perdor tekst */
+}
+h2{ text-indent: -50px
+    ;
+    text-decoration: overline;yellow
+    color: #00ffff
+
+    
+    
+    /* tu perdor heksadecimal */
+}
+h3{
+     background-color: rgb(146, 146, 230);
+}
+h4{
+    color: red;
+    background-color: blue;
+    word-spacing: 150px;
+    letter-spacing: 50px;
+}
+
+p{
+    text-align:center
+}

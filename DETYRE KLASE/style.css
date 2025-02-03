@@ -1,0 +1,17 @@
+.box{
+
+   width: 200px;
+   height: 200px;
+     background-color: blue;
+     border: 15px solid yellow;
+
+}
+.box1{
+    margin: 50px 300px;
+}
+.box3{
+    margin: 50px 300px;
+}
+h1{
+    text-align: center;
+}

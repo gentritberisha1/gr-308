@@ -1,0 +1,11 @@
+.img1{
+    width: 150px;
+    height: auto;
+}
+
+div{
+  
+    display: inline-block;
+    background-color: aqua;
+    margin-right:50px ;
+}
